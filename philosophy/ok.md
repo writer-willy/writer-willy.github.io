@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "문법 테스트"
 permalink: /philosophy/ok/
 ---
@@ -21,6 +21,7 @@ val name = "Mango"
 println(name)
 ```
 ~~삭제할 생각~~
+
 | 개념 | 의미 |
 |---|---|
 | 자유 | 선택할 수 있음 |
