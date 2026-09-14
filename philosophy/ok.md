@@ -7,7 +7,7 @@ permalink: /philosophy/ok/
 <!--
 Cmd + Shift + V: Markdown 미리보기
 -->
-
+![설명](/philosophy/images/test_apple.png)
 # 큰 제목
 ## 중간 제목
 ### 작은 제목
